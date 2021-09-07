@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/new note 2223.md",
+            "file": "_notes/Test note 112.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/new note 2223.md",
+                "file": "_notes/Test note 112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "62d3c1ec5c8a1453",
   "lastOpenFiles": [
-    "_notes/new note 2223.md",
     "_notes/Test note 112.md",
+    "_notes/new note 2223.md",
     "_notes/Untitled.md",
     "notenotehow/Obsidian integration.md",
     "_notes/Test note 111.md",

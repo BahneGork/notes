@@ -3,7 +3,7 @@
 title: My Note2
 tags: tag1
 toc: true
-season: winter
+season: summer
 ---
 ```
 
