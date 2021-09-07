@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes.md",
+            "file": "notenotehow/How-to-setup-this-site.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "notenotehow/How-to-setup-this-site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "62d3c1ec5c8a1453",
   "lastOpenFiles": [
+    "notenotehow/How-to-setup-this-site.md",
     "notes.md",
     "about.md",
     "_notes/new note 2223.md",
@@ -96,7 +97,6 @@
     "notenotehow/Obsidian integration.md",
     "_notes/Test note 111.md",
     "notenotehow/How to use the special features.md",
-    "dates.md",
-    "tags.md"
+    "dates.md"
   ]
 }
