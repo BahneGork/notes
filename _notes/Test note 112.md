@@ -1,9 +1,9 @@
-```YAML
 ---
 title: My Note
-tags: tag1
-toc: true
 season: summer
+tags: Theme
+toc: true
+comments: true
 ---
-```
+
 dsakja
