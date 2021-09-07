@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a1f30476b91c0b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "62d3c1ec5c8a1453",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60ce41103fe371de",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a95d2b75ef0ec8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "798e94e8b93fbd75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b19414667fba3493",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "772e7d0235ee027b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ed579616984d347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff5c8c7c5a2c015",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62d3c1ec5c8a1453",
+  "lastOpenFiles": [
+    "index.md",
+    "_notes/How to use the special features.md",
+    "_notes/how-markdown-is-rendered.md",
+    "tags.md",
+    "README.md",
+    "notes.md",
+    "dates.md",
+    "about.md",
+    "_site/README.md"
+  ]
+}
