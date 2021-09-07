@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Aurilia.md",
+            "file": "_notes/Delios.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Aurilia.md",
+                "file": "_notes/Delios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "62d3c1ec5c8a1453",
   "lastOpenFiles": [
-    "_notes/Aurilia.md",
+    "_notes/Delios.md",
     "_notes/Agapito Alamilla.md",
+    "_notes/Aurilia.md",
     "_notes/new note 2223.md",
     "_notes/How to use the special features.md",
     "_notes/Test note 112.md",
     "_notes/how-markdown-is-rendered.md",
     "_pages/Untitled.md",
     "notenotehow/How-to-setup-this-site.md",
-    "notes.md",
-    "about.md"
+    "notes.md"
   ]
 }

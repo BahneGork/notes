@@ -1,7 +1,7 @@
 ---
-title: My Note2
+title: Agapito Alamilla
 season: summer
-tags: npc, delios, the black portrait
+tags: npc delios 'the black portrait'
 toc: true
 comments: true
 ---
