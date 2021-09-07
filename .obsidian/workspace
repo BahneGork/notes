@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "notenotehow/Obsidian integration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notenotehow/Obsidian integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "62d3c1ec5c8a1453",
   "lastOpenFiles": [
-    "index.md",
-    "_notes/How to use the special features.md",
-    "_notes/how-markdown-is-rendered.md",
+    "notenotehow/Obsidian integration.md",
+    "_notes/Test note 111.md",
+    "notenotehow/How to use the special features.md",
+    "about.md",
+    "dates.md",
     "tags.md",
     "README.md",
     "notes.md",
-    "dates.md",
-    "about.md",
-    "_site/README.md"
+    "index.md",
+    "_notes/Untitled.md"
   ]
 }
