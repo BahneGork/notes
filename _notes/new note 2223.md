@@ -1,8 +1,9 @@
 ```YAML
 ---
 title: My Note2
-tags: tag1
+tags: Theme
 toc: true
+comments: true
 season: summer
 ---
 ```
